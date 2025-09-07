@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (PyCharmMiscProject)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (PyCharmMiscProject)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (pythonProject66)" project-jdk-type="Python SDK" />
+>>>>>>> df635064859c83c8d0cc40f8351f3ad64c3150dc
 </project>
